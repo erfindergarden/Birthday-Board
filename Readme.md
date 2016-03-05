@@ -1,6 +1,6 @@
-# Penny Pi - Big Raspberry Pi Birthday Weekend
+# Birthday Board - Raspberry Pi enhanced Penny Board
 
-For the Raspberry Pi 4th Birthday we made 
+For the Raspberry Pi 4th Birthday Weekend in Cambridge 
 
 ## Bill of Material
 
